@@ -19,29 +19,29 @@ The goal was to recreate the page using proper **HTML5 semantic tags**, correct 
 ## HTML Tags Used
 
 ```html
-<!DOCTYPE html>
-<html>
-<head>
-<meta>
-<title>
-<link>
-<style>
-<body>
-<header>
-<main>
-<footer>
-<section>
-<article>
-<nav>
-<h1> <h2> <h3>
-<p>
-<b>
-<i>
-<a>
-<img>
-<hr>
-<ol> <ul> <li>
-<blockquote>
-<cite>
-<code>
+- <!DOCTYPE html>
+- <html>
+- <head>
+- <meta>
+- <title>
+- <link>
+- <style>
+- <body>
+- <header>
+- <main>
+- <footer>
+- <section>
+- <article>
+- <nav>
+- <h1> <h2> <h3>
+- <p>
+- <b>
+- <i>
+- <a>
+- <img>
+- <hr>
+- <ol> <ul> <li>
+- <blockquote>
+- <cite>
+- <code>
 ```
