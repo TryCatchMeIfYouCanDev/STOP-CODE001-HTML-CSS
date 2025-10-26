@@ -1,5 +1,9 @@
 # Stop&Code 001 #
 
+- **Author**: `Marco Fuchs`
+- **Course**: `HTML Fundamentals – Stop&Code Series`
+- **Exercise ID**: `Stop&Code 001`
+
 ## Exercise Description ##
 This exercise consisted in reproducing the visual layout and structure of a **Wikipedia HTML5 page** provided as a **PDF screenshot**.  
 The goal was to recreate the page using proper **HTML5 semantic tags**, correct **indentation**, and **structural hierarchy** (headings, sections, and paragraphs).
@@ -49,7 +53,3 @@ The goal was to recreate the page using proper **HTML5 semantic tags**, correct 
 ## Summary ##
 
 This project demonstrates the ability to translate a static document (PDF) into a functional and accessible HTML5 web page, following best practices in web structure, semantics, and content hierarchy.
-
-- Author: Marco Fuchs
-- Course: HTML Fundamentals – Stop&Code Series
-- Exercise ID: Stop&Code 001
