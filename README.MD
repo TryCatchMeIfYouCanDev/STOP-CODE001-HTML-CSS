@@ -25,7 +25,6 @@ The goal was to recreate the page using proper **HTML5 semantic tags**, correct 
     <meta>
     <title>
     <link>
-    <style>
     <body>
     <header>
     <main>
@@ -44,6 +43,7 @@ The goal was to recreate the page using proper **HTML5 semantic tags**, correct 
     <blockquote>
     <cite>
     <code>
+    <style>
 ```
 
 ## Summary ##
