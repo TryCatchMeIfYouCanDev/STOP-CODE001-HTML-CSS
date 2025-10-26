@@ -19,29 +19,37 @@ The goal was to recreate the page using proper **HTML5 semantic tags**, correct 
 ## HTML Tags Used
 
 ```html
-- <!DOCTYPE html>
-- <html>
-- <head>
-- <meta>
-- <title>
-- <link>
-- <style>
-- <body>
-- <header>
-- <main>
-- <footer>
-- <section>
-- <article>
-- <nav>
-- <h1> <h2> <h3>
-- <p>
-- <b>
-- <i>
-- <a>
-- <img>
-- <hr>
-- <ol> <ul> <li>
-- <blockquote>
-- <cite>
-- <code>
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <meta>
+    <title>
+    <link>
+    <style>
+    <body>
+    <header>
+    <main>
+    <footer>
+    <section>
+    <article>
+    <nav>
+    <h1> <h2> <h3>
+    <p>
+    <b>
+    <i>
+    <a>
+    <img>
+    <hr>
+    <ol> <ul> <li>
+    <blockquote>
+    <cite>
+    <code>
 ```
+
+## Summary ##
+
+This project demonstrates the ability to translate a static document (PDF) into a functional and accessible HTML5 web page, following best practices in web structure, semantics, and content hierarchy.
+
+- Author: Marco Fuchs
+- Course: HTML Fundamentals – Stop&Code Series
+- Exercise ID: Stop&Code 001
